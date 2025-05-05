@@ -71,7 +71,8 @@ plt.xlabel('Previsto')
 plt.ylabel('Real')
 
 # mostrando as métricas, precisão, recall, f1-score...
-print("\nRelatório de classificação:", classification_report(y_test, yPrevisto))
+print("\nRelatório de classificação\n",
+      classification_report(y_test, yPrevisto))
 
 # visualizando a árvore
 plt.figure(figsize=(16, 8))
