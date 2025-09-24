@@ -1,0 +1,42 @@
+Área do Cliente
+* Primeira demanda finalizado, Fluxo port com compra
+* +80 cenários (web e mobile)
+* Bugs detectados com automações
+* Boa oportunidade:
+- colaborar com pessoas diferentes (time de automação, dev, qa)
+- rotinas de reuniões, dailys, sprints
+- criar projeto do zero e escalar
+- colocar em prática os estudos que eu vinha fazendo no Cypress
+- lidar com alguns obstáculos no meio do caminho: login->, instabilidades
+- 1 mês de muito aprendizado, consegui evoluir muito e somar valor, não ficar travado
+
+Nessa sprint:
+* demanda: refatoração das automações de API
+* Direcionamento dela?
+* Ideia: transitar entre web e API?
+* Automações APIs: sem dificuldade, arquitetura semelhante ao monitoramento
+* Ambientando com as automações, já clonei o repositório, criei a minha branch
+* Começo: Prev, portabilidade externa
+* 38 cenários a serem revisados
+* 15 analisados(7 funcionando normalmente/8 quebrados)
+* Erros identificados: 
+- cpf sem certificados válidos para portabilidade -> get certificados retorna 404
+- Após realizar um post portabilidade, o status da portabilidade está caindo em alguma pendência de modo que compromete a execução dos outros recursos da automação
+* Esses são os problemas a resolver
+
+
+A ideia aqui é mostrar que a Inteligência Artificial traz um monte de benefícios, mas também alguns cuidados básicos que a gente precisa ter.
+Hoje, decisões feitas por IA já influenciam coisas como crédito, saúde e até negócios, então é importante que a gente saiba quando está lidando com esse tipo de tecnologia.
+Outro ponto é a privacidade e a segurança: os dados que alimentam esses sistemas precisam ser bem protegidos e usados com clareza.
+Também existe a questão da responsabilidade — tanto empresas quanto usuários têm seu papel para garantir que a tecnologia seja usada da forma certa.
+E, por último, tem o impacto ambiental: treinar esses modelos gigantes consome muita energia e recursos, então pensar em sustentabilidade é parte do jogo.
+Ou seja, a IA é incrível, mas merece que a gente use com consciência.
+
+
+IA: Benefícios e Cuidados Essenciais
+ 
+•Decisões automatizadas impactam áreas como crédito, saúde e negócios.
+•Transparência: é importante saber quando estamos interagindo com IA.
+•Privacidade e segurança: dados precisam ser protegidos e usados com clareza.
+•Responsabilidade: empresas e usuários devem zelar pelo uso correto da tecnologia.
+•Sustentabilidade: grandes modelos consomem energia e recursos naturais.
